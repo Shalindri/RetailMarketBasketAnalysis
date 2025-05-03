@@ -1,0 +1,22 @@
+# RStudio files
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+
+# Data files (if needed)
+data/raw/*
+!data/raw/README.md
+
+# Output
+output/
+plots/
+
+# renv (if used)
+renv/library/
+renv/python/
+
+# OS files
+.DS_Store
+Thumbs.db
